@@ -1,0 +1,29 @@
+.imag{
+    border: 5px solid;
+    border-radius: 20%;
+    border-color: black;
+}
+
+.description{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.box{
+    height: 85px;
+    width: auto;
+    overflow-y: scroll;
+}
+
+.link{
+    color: white;
+    text-decoration:none;
+}
+
+.link:hover{
+    color: rgb(148, 96, 18);
+}
+
+#fondo{
+    background-color: rgb(206, 158, 86);
+}
